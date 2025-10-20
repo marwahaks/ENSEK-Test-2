@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ENSEK-Test/bin/Debug/net8.0
+/ENSEK-Test/obj
